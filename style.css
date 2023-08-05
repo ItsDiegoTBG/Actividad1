@@ -3,7 +3,6 @@ body {
     background-color: #f0f0f0;
     color: #333;
     margin: 0;
-    padding: 0;
 }
 
 /* Estilo para los encabezados h1 y h2 */
@@ -12,10 +11,10 @@ h1 {
 }
 
 h2 {
-    color: #ff5722;
+    color: #ff5752;
 }
 
 /* Estilo para los párrafos */
 p {
-    line-height: 1.6;
+    line-height: 2;
 }
